@@ -1,8 +1,8 @@
 <?php
 return array(
-    'base' => '/mvcdemo/',
-    'baseURL' => 'http://localhost/mvcdemo/',
-    'assets' => '/mvcdemo/assets',
+    'base' => '/MVC02/',
+    'baseURL' => 'http://localhost/MVC02/',
+    'assets' => '/MVC02/assets',
     'db' => array(
         'host'     => 'localhost',
         'name'     => 'ProductDB',
